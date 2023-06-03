@@ -4,6 +4,7 @@
       "app-id" : "DIA01",
       "name" : "Sarkari Yojana: સરકારી યોજના",
       "description" : "Government schemes information in Gujarati Language",
+      "package" : "com.dk.sarkariyojana",
       "url" : "https://play.google.com/store/apps/details?id=com.dk.sarkariyojana",
       "icon" : "https://play-lh.googleusercontent.com/az2_QvAisOIOg57WLKqk-EiZiHa6YGihpN5Gwfc_f7fkeNLa1rQdPo1qZsyTUveFPL2u=w240-h480-rw"
     },
@@ -11,6 +12,7 @@
       "app-id" : "DIA02",
       "name" : "Sarkari Yojana : सरकारी योजना",
       "description" : "Government schemes information in hinid Language",
+      "package" : "com.dhola.sarkariyojana",
       "url" : "https://play.google.com/store/apps/details?id=com.dhola.sarkariyojana",
       "icon" : "https://play-lh.googleusercontent.com/u_NdBUhsmK3I8wlXy3LTiYSQWhsiBZ2xAjv3Q0ZgEA2_3GvRL6mJw3g5AqH3yHKNMPQ=w240-h480-rw"
     },
@@ -18,6 +20,7 @@
       "app-id" : "DIA03",
       "name" : "Talati Exam Preparation 2023",
       "description" : "Student who preparing for Government Exam Talati",
+      "package" : "com.dhola.talati",
       "url" : "https://play.google.com/store/apps/details?id=com.dhola.talati",
       "icon" : "https://play-lh.googleusercontent.com/oDdeLLhrQIS4nd4XX_z6r3rkemBj3bxspiCp2NuGSX68HQBGEm87_ZLxxdmxlOkllaY=w240-h480-rw"
     }
